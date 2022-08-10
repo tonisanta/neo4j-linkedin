@@ -1,4 +1,4 @@
-# Neo4j - LinkedIn
+# Neo4j - LinkedIn REST API
 After listening many times about **graph databases**, I was thinking in possibles scenarios where I could take advantage
 of them. Then I came up with this idea that could be useful in two possibles ways:
 - Keep track of your **profile viewers**, would allow you to store who visited your profile and the last time they did it. 
